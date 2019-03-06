@@ -5,5 +5,5 @@ target/
 */*.jar
 */*.war
 *.xml
+*.hello
 */.hello.txt
-
