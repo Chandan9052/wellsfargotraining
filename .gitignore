@@ -5,6 +5,5 @@ target/
 */*.jar
 */*.war
 *.xml
-*.chandan.txt
-*.hello
 */.hello.txt
+
