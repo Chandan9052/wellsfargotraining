@@ -1,8 +1,10 @@
 test-report.html
 target/
 *.log
-**/password.txt
-**/*.jar
-*.war
+*/password.txt
+*/*.jar
+*/*.war
 *.xml
 *.chandan.txt
+*.hello
+*/.hello.txt
